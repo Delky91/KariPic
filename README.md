@@ -1,7 +1,7 @@
 # KariPic
 
-[visitanos en](https://vast-basin-97486-8e6733531a36.herokuapp.com/)
 Blog de fotos creado en rails para el Bootcamp RoR g8.
+[visitanos](https://vast-basin-97486-8e6733531a36.herokuapp.com/)
 
 ## Descripción
 
